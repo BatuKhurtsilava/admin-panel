@@ -1,0 +1,6 @@
+{
+ "SignUp": "https://reqres.in/api/register",
+ "Login": "https://reqres.in/api/login",
+ "Resources": "https://reqres.in/api/resources",
+ "Users": "https://reqres.in/api/users"
+}
